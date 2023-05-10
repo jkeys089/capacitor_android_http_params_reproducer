@@ -1,0 +1,14 @@
+{
+  "appId": "capacitor.android.httpparams.reproducer",
+  "appName": "capacitor_android_http_params_reproducer",
+  "bundledWebRuntime": false,
+  "webDir": "dist",
+  "plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 0
+    },
+    "CapacitorHttp": {
+      "enabled": true
+    }
+  }
+}

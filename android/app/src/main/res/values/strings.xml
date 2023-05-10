@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">capacitor_android_http_params_reproducer</string>
+    <string name="title_activity_main">capacitor_android_http_params_reproducer</string>
+    <string name="package_name">capacitor.android.httpparams.reproducer</string>
+    <string name="custom_url_scheme">capacitor.android.httpparams.reproducer</string>
+</resources>
